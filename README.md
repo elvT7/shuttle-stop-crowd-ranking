@@ -52,4 +52,7 @@ Step 6: While the terminal is still open, open `http://localhost:7860` in your b
 
 Step 7: Run the simulation
 
+## Hugging Face Link
+https://huggingface.co/spaces/elvt/shutte-stop-crowd-ranking
+
 
