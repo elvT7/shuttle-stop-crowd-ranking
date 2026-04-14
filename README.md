@@ -15,6 +15,9 @@ Tags:
 [CMP]=Compare (Indicates which value is being compared to the pivot)
 
 [   ]=Active subarray (part of the current section of the list that the recursive call is sorting)
+## Demonstration
+
+https://github.com/user-attachments/assets/94faabc0-970f-48c2-b7d3-d12ee3bf508a
 
 ## Problem Breakdown & Computational Thinking
 
