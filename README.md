@@ -36,6 +36,9 @@ https://github.com/user-attachments/assets/94faabc0-970f-48c2-b7d3-d12ee3bf508a
 
 **Algorithm Design:** The user will see a editable table with all the shuttle stop data. Each row has `stop_name` and `crowd_count` , the user can add a new stop, remove a stop, and load sample stop data. For processing the program will go through the shuttle stop data to verify that it is valid, and runs quick sort on the list. For output the GUI will show a bar chart that updates as the sort is happening, and below it will be the full step history.
 
+## Flowchart
+<img width="297" height="678" alt="flowchart" src="https://github.com/user-attachments/assets/515f1a49-45c7-4590-995b-7782cae7e29d" />
+
 ## Steps to Run
 
 Step 1: Download the latest version of python from: `https://www.python.org/downloads/`
