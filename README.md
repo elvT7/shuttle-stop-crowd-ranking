@@ -55,4 +55,23 @@ Step 7: Run the simulation
 ## Hugging Face Link
 https://huggingface.co/spaces/elvt/shutte-stop-crowd-ranking
 
+## Tests
+Test 1: When given only one stop, the app correctly handles it by returning the stop as there is nothing to sort and displaying a message in the status
+<img width="2169" height="1305" alt="Test 1" src="https://github.com/user-attachments/assets/3fedab99-e7d9-426f-87e9-d50d7beccd7b" />
+
+Test 2: When `crowd_count` is not a valid number (not greater than or equal to 0) the app displays a message in the status box, and ignores that stop and continues to sort the rest of the data without it
+<img width="2174" height="1306" alt="Test 2" src="https://github.com/user-attachments/assets/cda56d74-587a-4d82-b396-200cada3ba28" />
+
+Test 3:  When `stop_name` is left empty, the app displays a message in the status box, and ignores that stop and continues to sort the rest of the data without it
+<img width="2177" height="1310" alt="Test 3" src="https://github.com/user-attachments/assets/d12ec8ef-444b-430e-ae84-57fb148aaf24" />
+
+## Author & AI Acknowledgment
+Author: Elvis Tann
+Section: 001
+
+Sources: CISC 121 Notes
+
+**AI WAS USED (LEVEL 4):** This project was made with the help of Claude, I used the code from Claude and made changes to fix some bugs like the alignment of the bar chart being off, as well as adding personalized sample data. All code was reviewed, commented on and understood by me.
+https://claude.ai/share/8f6a9773-26ec-4633-943f-dfa36235737b
+
 
